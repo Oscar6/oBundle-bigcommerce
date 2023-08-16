@@ -1,7 +1,6 @@
 ## oBundle BigCommerce Technical
 
 ## Setup
-----------
 Sign up for a BigCommerce trial store
 	- this will be valid for 15 days and will be needed to complete the test
 
@@ -12,7 +11,6 @@ Install Stencil CLI for local development
 
 
 ## Task
-----------
 Create a product called Special Item which will be assigned to a new category called Special Items
 	- Be sure to add at least 2 images during the product creation
 
@@ -41,13 +39,11 @@ If the cart has an item in it
     ```
 
 ## Bonus
-----------
 If a customer is logged in 
 	- At the top of the category page show a banner that shows some customer details (i.e. name, email, phone, etc). This should utilize the data that is rendered via Handlebars on the Customer Object.
 
 
 ## Submission
---------------------
 
 [BigCommerce Store](https://obundle-technical-assesment.mybigcommerce.com/?ctk=6ac8b164-5125-408d-9a7a-6db5c14ad223)
 
